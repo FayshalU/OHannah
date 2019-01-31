@@ -1,0 +1,20 @@
+use default mail id
+log in
+yes
+no
+go back
+back
+go to inbox
+open inbox
+inbox
+go to compose
+compose an email
+send an email
+add id
+add subject
+add body
+add message 
+add an attachment
+add a file
+send
+send email

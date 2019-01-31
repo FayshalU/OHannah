@@ -1,0 +1,11 @@
+search
+minimize
+hide website
+hide browser
+maximize
+show website
+show browser
+close
+go back
+close website
+close browser

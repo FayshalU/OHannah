@@ -1,0 +1,5 @@
+set
+set alarm
+stop
+back
+go back

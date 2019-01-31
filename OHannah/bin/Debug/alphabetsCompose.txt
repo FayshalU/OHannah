@@ -1,0 +1,53 @@
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+zero
+dot
+at
+star
+hash
+dollar
+parcent
+erase
+clear
+add subject
+add body
+add message 
+add an attachment
+add a file
+send
+send email
+back
+go back

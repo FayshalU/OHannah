@@ -1,0 +1,59 @@
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+zero
+dot
+at
+star
+hash
+dollar
+parcent
+erase
+clear
+space
+show
+show password
+hide
+hide password
+add id
+add password
+check
+check user
+add name
+add email
+add number
+confirm registration
+back
+go back

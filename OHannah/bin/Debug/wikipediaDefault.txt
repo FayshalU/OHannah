@@ -1,0 +1,20 @@
+search
+pause
+resume
+stop
+read
+get the result
+what is the result
+whats the result
+read the result
+start reading
+minimize
+hide website
+hide browser
+maximize
+show website
+show browser
+go back
+close
+close website
+close browser

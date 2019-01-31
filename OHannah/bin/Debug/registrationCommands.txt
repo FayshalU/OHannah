@@ -1,0 +1,10 @@
+add id
+check
+check user
+add name
+add password
+add email
+add number
+confirm registration
+back
+go back

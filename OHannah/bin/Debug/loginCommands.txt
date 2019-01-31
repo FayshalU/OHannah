@@ -1,0 +1,11 @@
+log in
+login
+add id
+add password
+show
+show password
+hide
+hide password
+registration
+register me
+go to registration
